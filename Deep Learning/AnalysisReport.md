@@ -1,5 +1,3 @@
-# deep-learning-challenge
-
 # Analysis Report: Deep Learning Model
 
 ## Overview
@@ -23,10 +21,3 @@ The goal is to create a binary classifier that can predict whether applicants wi
 ## Summary
 This model can correctly classify the test data with a 79% accuracy. This accuracy was obtained by combining many different features into an "Other" category, so the classification is most reliable if an applicant's features match the more common ones (ie. Most common application types, more than 10 total applications, a Trust or Association).  
 Another possible model to use is a logistic regression model. Logistic regression is a common model for binary classification. With this same dataset, a logistic regression model acheives 78% accuracy.
-
-
-### Contributors
-Ivan Villa
-
-### Additional Notes
-*Datasource: IRS. Tax Exempt Organization Search Bulk Data Downloads.*
